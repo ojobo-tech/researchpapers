@@ -1,3 +1,40 @@
+Link to Paper: https://www.mdpi.com/1999-4893/19/6/488
+
+Purpose and Scope
+The paper addresses the growing use of AI in healthcare — from diagnostics and clinical decision support to personalized medicine — but highlights the “black box” problem of complex models. XAI is introduced as a way to make AI decisions transparent, trustworthy, and compliant with regulations MDPI.
+
+Key Findings
+XAI techniques by domain:
+
+SHAP and LIME are most common for structured data (e.g., electronic health records).
+
+Grad-CAM and Layer-wise Relevance Propagation (LRP) are more common in medical imaging MDPI.
+
+Evaluation metrics: Faithfulness, trustworthiness, and regulatory compliance are emphasized as operationalizing explainability, distinguishing this review from purely descriptive summaries MDPI.
+
+Clinical trust: XAI significantly improves clinician trust, but explanations remain heterogeneous and often limited to controlled settings and benchmark datasets MDPI.
+
+Barriers: Inconsistent interpretability across data modalities, lack of standardized evaluation frameworks, and misalignment with strict regulatory standards (e.g., EU AI Act, FDA guidelines, HIPAA) MDPI.
+
+Critical Questions Addressed
+The authors explore:
+
+Which XAI techniques are most frequently applied in clinical domains?
+
+How model-specific vs. model-agnostic methods differ in healthcare?
+
+Challenges in implementation and validation in clinical environments?
+
+Gaps in research for regulatory alignment LinkedIn.
+Implications
+The review calls for:
+
+Standardization of XAI validation methods.
+
+Human-centered design to move beyond algorithmic transparency toward reliable real-world integration.
+
+Bridging the gap between XAI research and regulatory compliance to enable broader clinical adoption MDPI.
+
 MDPI and ACS Style
 Agbo Eje, O.; Azim, S.M.; Dehzangi, I. Explainable AI Applications in Healthcare: A Systematic Review. Algorithms 2026, 19, 488. https://doi.org/10.3390/a19060488
 
